@@ -1,2 +1,2 @@
 # README
-ini file minta dibaca
+ini file minta dibaca. ini udah dicommit
